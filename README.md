@@ -9,15 +9,15 @@
 #  About Me
 
 * Currently building **CompanyHub**, an Enterprise Multi-Tenant SaaS Platform.
-* 🌱 Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**.
-* 💬 Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**.
-* 🎯 Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**.
+* Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**.
+* Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**.
+* Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 💻 Languages
+## Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet)
 ![Web API](https://img.shields.io/badge/REST_API-512BD4?style=for-the-badge)
@@ -36,14 +36,14 @@
 
 ---
 
-## 🗄️ Database
+## Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
 
 ---
 
-## 🏛️ Architecture & Design
+## Architecture & Design
 
 * Clean Architecture
 * SOLID Principles
@@ -55,7 +55,7 @@
 
 ---
 
-## 🔐 Authentication & Security
+## Authentication & Security
 
 * ASP.NET Identity
 * JWT Authentication
@@ -70,9 +70,10 @@
 
 ---
 
-## 📦 ORM & Data Access
+## ORM & Data Access
 
-* Entity Framework Core
+* Entity
+* Framework Core
 * LINQ
 * Code First
 * Fluent API
@@ -81,7 +82,7 @@
 
 ---
 
-## 📊 Monitoring & Performance
+## Monitoring & Performance
 
 * Health Checks
 * Background Jobs
@@ -91,7 +92,7 @@
 
 ---
 
-## 💳 Integrations
+## Integrations
 
 * Paymob Payment Gateway
 * SMTP Email Service
@@ -101,7 +102,7 @@
 
 ---
 
-## 🧪 Testing
+## Testing
 
 * xUnit
 * Moq
@@ -110,7 +111,7 @@
 
 ---
 
-## ☁️ DevOps & Tools
+## DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
@@ -122,15 +123,15 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ---
 
-## 🏢 CompanyHub SaaS
+## CompanyHub SaaS
 
 Enterprise Multi-Tenant SaaS Backend built with **ASP.NET Core** and **Clean Architecture**.
 
-### ✨ Features
+### Features
 
 * ✅ Multi-Tenant Architecture
 * ✅ ASP.NET Identity
@@ -158,7 +159,7 @@ ASP.NET Core • Entity Framework Core • SQL Server • JWT • Identity • S
 
 ---
 
-## 📱 Social Media API
+## Social Media API
 
 A scalable RESTful social media backend.
 
@@ -176,7 +177,7 @@ A scalable RESTful social media backend.
 
 ---
 
-## 🏢 HR Management System
+##  HR Management System
 
 Enterprise HR Management REST API.
 
@@ -193,7 +194,7 @@ Enterprise HR Management REST API.
 
 ---
 
-## 🛒 E-Commerce API
+## E-Commerce API
 
 RESTful backend for an online shopping platform.
 
@@ -210,7 +211,7 @@ RESTful backend for an online shopping platform.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoudah25\&show_icons=true\&theme=tokyonight)
 
@@ -218,7 +219,7 @@ RESTful backend for an online shopping platform.
 
 ---
 
-# 📈 Currently Learning
+# Currently Learning
 
 * Docker
 * Kubernetes
@@ -229,14 +230,14 @@ RESTful backend for an online shopping platform.
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/mahmoud-abdel-samed-9b3b642b7
+ LinkedIn: https://www.linkedin.com/in/mahmoud-abdel-samed-9b3b642b7
 
-📧 Email: [mahmoudandelsamed@gmail.com](mailto:mahmoudandelsamed@gmail.com)
+ Email: [mahmoudandelsamed@gmail.com](mailto:mahmoudandelsamed@gmail.com)
 
-🐙 GitHub: https://github.com/Mahmoudah25
+ GitHub: https://github.com/Mahmoudah25
 
 ---
 
-⭐ *Always learning, always building, and passionate about creating scalable backend solutions.*
+ *Always learning, always building, and passionate about creating scalable backend solutions.*
