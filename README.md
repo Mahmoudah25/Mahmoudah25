@@ -8,7 +8,7 @@
 
 #  About Me
 
-* 🔭 Currently building **CompanyHub**, an Enterprise Multi-Tenant SaaS Platform.
+* Currently building **CompanyHub**, an Enterprise Multi-Tenant SaaS Platform.
 * 🌱 Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**.
 * 💬 Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**.
 * 🎯 Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**.
