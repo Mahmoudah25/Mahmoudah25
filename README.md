@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Mahmoud Abdelsamed
+# Hi there , I'm Mahmoud Abdelsamed
 
-## 🚀 Backend .NET Developer
+## Backend .NET Developer
 
-💻 Passionate about building scalable, secure, and maintainable backend systems using **ASP.NET Core**, **Clean Architecture**, and modern software engineering practices.
+ Passionate about building scalable, secure, and maintainable backend systems using **ASP.NET Core**, **Clean Architecture**, and modern software engineering practices.
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 * 🔭 Currently building **CompanyHub**, an Enterprise Multi-Tenant SaaS Platform.
 * 🌱 Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**.
