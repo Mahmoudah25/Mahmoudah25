@@ -16,7 +16,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
