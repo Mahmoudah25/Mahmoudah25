@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Abdelsamed 
 
-## Backend .NET Developer
+## .NET Developer
 
 Passionate about building scalable, secure, and maintainable backend systems using **ASP.NET Core**, **Clean Architecture**, and modern software engineering practices.
 
