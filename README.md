@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Abdelsamed 👋
+# Hi, I'm Mahmoud Abdelsamed 
 
 ## Backend .NET Developer
 
@@ -6,13 +6,13 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
-- 🌱 Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
-- 💬 Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**
-- ⚡ Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
-- 🎓 Computer Science student at El-Shorouk Academy's Higher Institute for Computer & Information Technology
+-  Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
+-  Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
+-  Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**
+-  Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
+-  Computer Science student at El-Shorouk Academy's Higher Institute for Computer & Information Technology
 
 ---
 
@@ -46,7 +46,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 
 ---
 
-## 🏗️ Architecture & Practices
+## Architecture & Practices
 
 - Clean Architecture
 - SOLID Principles
@@ -56,7 +56,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 - RESTful API Design
 - CQRS / MediatR
 
-## 🔐 Authentication & Security
+## Authentication & Security
 
 - ASP.NET Identity · JWT · Refresh Tokens
 - Email Verification · Password Reset
@@ -65,19 +65,19 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 - Session Management
 - Role- & Permission-Based Authorization
 
-## 🗄️ ORM & Data Access
+## ORM & Data Access
 
 - Entity Framework Core (Code First, Fluent API, Migrations, Query Filters)
 - LINQ
 
-## 📊 Monitoring & Performance
+## Monitoring & Performance
 
 - Health Checks
 - Background Jobs (Hangfire)
 - Audit Logging & Usage Tracking
 - Dashboard APIs
 
-## 🔌 Integrations
+## Integrations
 
 - Paymob Payment Gateway
 - SMTP Email Service (Gmail SMTP)
@@ -86,15 +86,15 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 - Swagger / OpenAPI
 - Groq LLM API · OpenStreetMap / Overpass API · OpenWeatherMap
 
-## ✅ Testing
+## Testing
 
 - xUnit · Moq · FluentAssertions
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🕯️ ARAM Candles
+### ARAM Candles
 Full-stack Egyptian e-commerce candle store — ASP.NET Core Web API backend with a custom-built vanilla HTML/CSS/JS frontend.
 - Product catalog, cart, and checkout with Paymob payment integration
 - Order tracking, public review wall, FAQ, and contact pages
@@ -105,7 +105,7 @@ Full-stack Egyptian e-commerce candle store — ASP.NET Core Web API backend wit
 
 ---
 
-### ✈️ AI-Powered Travel Trip Planner
+### AI-Powered Travel Trip Planner
 Portfolio project simulating an Agile development workflow, generating personalized travel itineraries with AI.
 - Clean Architecture on .NET 9 with MediatR/CQRS
 - AI-generated itineraries via the Groq API (Llama 3.3 70B)
@@ -116,7 +116,7 @@ Portfolio project simulating an Agile development workflow, generating personali
 
 ---
 
-### 🖼️ Image Processing SaaS API
+### Image Processing SaaS API
 A SaaS-style API for on-demand image processing with metered, paid access.
 - JWT authentication with BCrypt password hashing
 - Image transformations via SixLabors.ImageSharp
@@ -126,7 +126,7 @@ A SaaS-style API for on-demand image processing with metered, paid access.
 
 ---
 
-### 🏢 CompanyHub SaaS
+### CompanyHub SaaS
 Enterprise multi-tenant SaaS backend for B2B companies.
 - Multi-tenant architecture with tenant-scoped data isolation
 - ASP.NET Identity, JWT, refresh tokens, and 2FA (TOTP)
@@ -138,7 +138,7 @@ Enterprise multi-tenant SaaS backend for B2B companies.
 
 ---
 
-### 📱 Social Media API
+### Social Media API
 A scalable RESTful social media backend.
 - Posts, comments, likes, and stories
 - Real-time messaging and notifications via SignalR
@@ -148,7 +148,7 @@ A scalable RESTful social media backend.
 
 ---
 
-### 👥 HR Management System
+### HR Management System
 Enterprise HR management REST API.
 - Employee management, attendance tracking, and leave requests
 - Google Authentication and email notifications
@@ -156,14 +156,14 @@ Enterprise HR management REST API.
 
 ---
 
-### 🛒 E-Commerce API
+### E-Commerce API
 RESTful backend for an online shopping platform.
 - Auth & authorization, products, categories, and cart
 - Order and inventory management with payment integration
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoudah25&show_icons=true&theme=tokyonight)
 
@@ -171,13 +171,13 @@ RESTful backend for an online shopping platform.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservices
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdel-samed-9b3b642b7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudandelsamed@gmail.com)
