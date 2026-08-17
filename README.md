@@ -12,7 +12,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 -  Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
 -  Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**
 -  Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
--  Computer Science student at El-Shorouk Academy's Higher Institute for Computer & Information Technology
+-  Computer Science student at El-Shorouk Academy Faculty of Computer & Information Technology
 
 ---
 
