@@ -10,7 +10,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 
 -  Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
 -  Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
--  Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, and Clean Architecture**
+-  Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, Angular, TypeScript, and Clean Architecture**
 -  Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
 -  Computer Science student at El-Shorouk Academy Faculty of Computer & Information Technology
 
@@ -22,6 +22,10 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
@@ -42,6 +46,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway)
+![MonsterASP.NET](https://img.shields.io/badge/MonsterASP.NET-6E2FF3?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 
 ---
