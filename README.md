@@ -78,7 +78,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 
 - Entity Framework Core (Code First, Fluent API, Migrations, Query Filters)
 - LINQ
-
+- 
 ## Monitoring & Performance
 
 - Health Checks
