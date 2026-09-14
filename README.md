@@ -1,22 +1,26 @@
-# Hi, I'm Mahmoud Abdelsamed 
+<div align="center">
 
-## .NET Developer
+<!-- Animated typing intro -->
+<a href="https://github.com/Mahmoudah25">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=512BD4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mahmoud+Abdelsamed+%F0%9F%91%8B;.NET+Backend+Developer;Clean+Architecture+%7C+ASP.NET+Core+%7C+EF+Core;Building+scalable%2C+secure+backend+systems" alt="Typing SVG" />
+</a>
 
-Passionate about building scalable, secure, and maintainable backend systems using **ASP.NET Core**, **Clean Architecture**, and modern software engineering practices.
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
 
----
+</div>
 
 ## About Me
 
--  Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
--  Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
--  Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, Angular, TypeScript, and Clean Architecture**
--  Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
--  Computer Science student at El-Shorouk Academy Faculty of Computer & Information Technology
+- 🚀 Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
+- 📚 Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
+- 💬 Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, Angular, TypeScript, and Clean Architecture**
+- 🌱 Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
+- 🎓 Computer Science student at El-Shorouk Academy Faculty of Computer & Information Technology
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -55,7 +59,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 
 ---
 
-## Architecture & Practices
+## 🏛️ Architecture & Practices
 
 - Clean Architecture
 - SOLID Principles
@@ -65,7 +69,7 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 - RESTful API Design
 - CQRS / MediatR
 
-## Authentication & Security
+## 🔐 Authentication & Security
 
 - ASP.NET Identity · JWT · Refresh Tokens
 - Email Verification · Password Reset
@@ -74,19 +78,19 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 - Session Management
 - Role- & Permission-Based Authorization
 
-## ORM & Data Access
+## 🗄️ ORM & Data Access
 
 - Entity Framework Core (Code First, Fluent API, Migrations, Query Filters)
 - LINQ
-- 
-## Monitoring & Performance
+
+## 📊 Monitoring & Performance
 
 - Health Checks
 - Background Jobs (Hangfire)
 - Audit Logging & Usage Tracking
 - Dashboard APIs
 
-## Integrations
+## 🔗 Integrations
 
 - Paymob Payment Gateway
 - SMTP Email Service (Gmail SMTP)
@@ -95,13 +99,13 @@ Passionate about building scalable, secure, and maintainable backend systems usi
 - Swagger / OpenAPI
 - Groq LLM API · OpenStreetMap / Overpass API · OpenWeatherMap
 
-## Testing
+## 🧪 Testing
 
 - xUnit · Moq · FluentAssertions
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### ARAM Candles
 Full-stack Egyptian e-commerce candle store — ASP.NET Core Web API backend with a custom-built vanilla HTML/CSS/JS frontend.
@@ -172,26 +176,51 @@ RESTful backend for an online shopping platform.
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoudah25&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudah25&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoudah25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahmoud's GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudah25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudah25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudah25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<!--
+  Animated snake contribution graph:
+  1. Add a GitHub Action using https://github.com/Platane/snk to your profile repo
+  2. It generates an animated snake eating your contribution graph
+  3. Then embed it here, e.g.:
+  <img src="https://raw.githubusercontent.com/Mahmoudah25/Mahmoudah25/output/github-contribution-grid-snake.svg" />
+-->
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservices
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdel-samed-9b3b642b7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudandelsamed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoudah25)
 
----
+</div>
+
+<div align="center">
 
 *Always learning, always building, and passionate about creating scalable backend solutions.*
+
+<img src="https://komarev.com/ghpvc/?username=Mahmoudah25&label=Profile%20Views&color=512BD4&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
