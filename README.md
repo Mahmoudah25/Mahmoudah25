@@ -6,7 +6,7 @@
 </a>
 
 <!-- Animated wave banner -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
@@ -180,12 +180,12 @@ RESTful backend for an online shopping platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoudah25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahmoud's GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudah25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
+<img src="https://github-readme-stats-six-tau-56.vercel.app/api?username=Mahmoudah25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahmoud's GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats-six-tau-56.vercel.app/api/top-langs/?username=Mahmoudah25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudah25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudah25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph-tau-nine.vercel.app/graph?username=Mahmoudah25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -223,4 +223,4 @@ Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservice
 
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
