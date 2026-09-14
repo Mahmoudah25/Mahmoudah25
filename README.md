@@ -9,15 +9,17 @@
 
 ## About Me
 
--  Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
--  Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
--  Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, Angular, TypeScript, and Clean Architecture**
--  Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
--  Computer Science student at El-Shorouk Academy Faculty of Computer & Information Technology
+- 🚀 Currently building **ARAM Candles**, a full-stack Egyptian e-commerce platform (ASP.NET Core Web API + vanilla JS frontend)
+- 📚 Currently learning **Unit Testing, Docker, Kubernetes, CI/CD, and Cloud Deployment**
+- 💬 Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, Authentication, Angular, TypeScript, and Clean Architecture**
+- 🌱 Interested in **Backend Architecture, Distributed Systems, Cloud Technologies, and Scalable APIs**
+- 🎓 Computer Science student at El-Shorouk Academy Faculty of Computer & Information Technology
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -54,9 +56,11 @@
 ![MonsterASP.NET](https://img.shields.io/badge/MonsterASP.NET-6E2FF3?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 
+</div>
+
 ---
 
-##  Architecture & Practices
+## 🏛️ Architecture & Practices
 
 - Clean Architecture
 - SOLID Principles
@@ -66,7 +70,7 @@
 - RESTful API Design
 - CQRS / MediatR
 
-##  Authentication & Security
+## 🔐 Authentication & Security
 
 - ASP.NET Identity · JWT · Refresh Tokens
 - Email Verification · Password Reset
@@ -75,19 +79,19 @@
 - Session Management
 - Role- & Permission-Based Authorization
 
-##  ORM & Data Access
+## 🗄️ ORM & Data Access
 
 - Entity Framework Core (Code First, Fluent API, Migrations, Query Filters)
 - LINQ
 
-##  Monitoring & Performance
+## 📊 Monitoring & Performance
 
 - Health Checks
 - Background Jobs (Hangfire)
 - Audit Logging & Usage Tracking
 - Dashboard APIs
 
-##  Integrations
+## 🔗 Integrations
 
 - Paymob Payment Gateway
 - SMTP Email Service (Gmail SMTP)
@@ -96,13 +100,13 @@
 - Swagger / OpenAPI
 - Groq LLM API · OpenStreetMap / Overpass API · OpenWeatherMap
 
-##  Testing
+## 🧪 Testing
 
 - xUnit · Moq · FluentAssertions
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### ARAM Candles
 Full-stack Egyptian e-commerce candle store — ASP.NET Core Web API backend with a custom-built vanilla HTML/CSS/JS frontend.
@@ -173,7 +177,7 @@ RESTful backend for an online shopping platform.
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -196,7 +200,7 @@ RESTful backend for an online shopping platform.
 
 ---
 
-##  Currently Learning
+## 📚 Currently Learning
 
 Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservices
 
