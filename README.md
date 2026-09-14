@@ -201,7 +201,6 @@ RESTful backend for an online shopping platform.
 Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservices
 
 ---
-
 🤝 Connect With Me
 <div align="center">
 
@@ -212,9 +211,6 @@ Portfolio LinkedIn Email GitHub
 Always learning, always building, and passionate about creating scalable backend solutions.
 
 <img src="https://komarev.com/ghpvc/?username=Mahmoudah25&label=Profile%20Views&color=512BD4&style=for-the-badge" alt="Profile Views"/> </div>
-
-</div>
-
 <div align="center">
 
 *Always learning, always building, and passionate about creating scalable backend solutions.*
