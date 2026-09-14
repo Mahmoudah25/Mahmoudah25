@@ -202,13 +202,16 @@ Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservice
 
 ---
 
-##  Connect With Me
-
+🤝 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdel-samed-9b3b642b7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudandelsamed@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoudah25)
+Portfolio LinkedIn Email GitHub
+
+</div> <div align="center">
+
+Always learning, always building, and passionate about creating scalable backend solutions.
+
+<img src="https://komarev.com/ghpvc/?username=Mahmoudah25&label=Profile%20Views&color=512BD4&style=for-the-badge" alt="Profile Views"/> </div>
 
 </div>
 
