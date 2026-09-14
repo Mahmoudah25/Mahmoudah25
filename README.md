@@ -2,11 +2,8 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/Mahmoudah25">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=512BD4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mahmoud+Abdelsamed+%F0%9F%91%8B;.NET+Backend+Developer;Clean+Architecture+%7C+ASP.NET+Core+%7C+EF+Core;Building+scalable%2C+secure+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=512BD4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mahmoud+Abdelsamed+%F0%9F%91%8B;.NET+Backend+Developer;%C2%A0Clean+Architecture+%7C+ASP.NET+Core+%7C+EF+Core;Building+scalable%2C+secure+backend+systems" alt="Typing SVG" />
 </a>
-
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
@@ -222,5 +219,3 @@ Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservice
 <img src="https://komarev.com/ghpvc/?username=Mahmoudah25&label=Profile%20Views&color=512BD4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
