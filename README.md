@@ -195,13 +195,13 @@ RESTful backend for an online shopping platform.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 Docker · Kubernetes · Unit Testing · CI/CD Pipelines · Azure · Microservices
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
