@@ -17,23 +17,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,dotnet,html,css,tailwind,bootstrap,angular,postgres,docker,git,github,postman,swagger,visualstudio&perline=8" height="72" alt="Tech Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="56" title="C#" alt="C#" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="56" title=".NET / ASP.NET Core" alt=".NET" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="56" title="SQL Server" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="56" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="56" title="JWT" alt="JWT" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="56" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="56" title="Angular" alt="Angular" />
+  <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="56" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="56" title="Docker" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" title="Git" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="56" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="56" title="Postman" alt="Postman" />
+  <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="56" title="Swagger" alt="Swagger" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="56" title="Visual Studio" alt="Visual Studio" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/railway/ffffff" height="56" title="Railway" alt="Railway" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="64" title="SQL Server" alt="SQL Server" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="64" title="JWT" alt="JWT" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="64" title="SignalR" alt="SignalR" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/railway/ffffff" height="64" title="Railway" alt="Railway" />
-</p>
-
----
 ---
 
 ##  Architecture & Practices
