@@ -18,7 +18,19 @@
 ---
 
 ##  Tech Stack
-
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Identity" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Hangfire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Hangfire" />
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MediatR" />
+  <br />
+  <img src="https://img.shields.io/badge/REST_API-512BD4?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge" alt="MVC" />
+  <img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge" alt="CQRS" />
+  <img src="https://img.shields.io/badge/Paymob-512BD4?style=for-the-badge" alt="Paymob" />
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="56" title="C#" alt="C#" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="56" title=".NET / ASP.NET Core" alt=".NET" />&nbsp;&nbsp;
