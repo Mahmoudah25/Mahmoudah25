@@ -17,77 +17,43 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-## Tech Stack
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,postgres" height="48" title="C#, JavaScript, TypeScript, SQL" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" title="ASP.NET Core / EF Core / Identity / REST API" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="48" title="JWT" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" title="SignalR" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular" height="48" />
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" />
-</p>
-
-<h3 align="center">DevOps & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger,visualstudio" height="48" />
-  <img src="https://cdn.simpleicons.org/railway/ffffff" height="48" title="Railway" />
-</p>
 <div align="center">
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<h3>Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts" height="48" alt="C#, JavaScript, TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL" alt="SQL" />
+</p>
 
-### Backend
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
-![Web API](https://img.shields.io/badge/REST_API-512BD4?style=for-the-badge)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
-![ASP.NET Identity](https://img.shields.io/badge/Identity-512BD4?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge)
+<h3>Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" title="ASP.NET Core · EF Core · Identity · REST API" alt=".NET" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="48" title="JWT" alt="JWT" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" title="SignalR" alt="SignalR" />
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<h3>Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular" height="48" alt="Frontend" />
+</p>
 
-### Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+<h3>Database</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL Server" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />
+</p>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway)
-![MonsterASP.NET](https://img.shields.io/badge/MonsterASP.NET-6E2FF3?style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+<h3>DevOps & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger,visualstudio" height="48" alt="DevOps & Tools" />
+  <img src="https://cdn.simpleicons.org/railway/ffffff" height="48" title="Railway" alt="Railway" />
+</p>
 
 </div>
 
+---
 ---
 
 ##  Architecture & Practices
