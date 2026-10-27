@@ -19,6 +19,36 @@
 
 ##  Tech Stack
 
+## Tech Stack
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,postgres" height="48" title="C#, JavaScript, TypeScript, SQL" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" title="ASP.NET Core / EF Core / Identity / REST API" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="48" title="JWT" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" title="SignalR" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular" height="48" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" />
+</p>
+
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger,visualstudio" height="48" />
+  <img src="https://cdn.simpleicons.org/railway/ffffff" height="48" title="Railway" />
+</p>
 <div align="center">
 
 ### Languages
