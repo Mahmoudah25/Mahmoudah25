@@ -19,39 +19,19 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<h3>Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts" height="48" alt="C#, JavaScript, TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL" alt="SQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,dotnet,html,css,tailwind,bootstrap,angular,postgres,docker,git,github,postman,swagger,visualstudio&perline=8" height="72" alt="Tech Stack" />
 </p>
 
-<h3>Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" title="ASP.NET Core · EF Core · Identity · REST API" alt=".NET" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="48" title="JWT" alt="JWT" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" title="SignalR" alt="SignalR" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="64" title="SQL Server" alt="SQL Server" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="64" title="JWT" alt="JWT" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="64" title="SignalR" alt="SignalR" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/railway/ffffff" height="64" title="Railway" alt="Railway" />
 </p>
-
-<h3>Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,angular" height="48" alt="Frontend" />
-</p>
-
-<h3>Database</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL Server" alt="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />
-</p>
-
-<h3>DevOps & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger,visualstudio" height="48" alt="DevOps & Tools" />
-  <img src="https://cdn.simpleicons.org/railway/ffffff" height="48" title="Railway" alt="Railway" />
-</p>
-
-</div>
 
 ---
 ---
